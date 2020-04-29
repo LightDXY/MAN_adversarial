@@ -1,0 +1,72 @@
+2
+basic setting:
+beta = 1200.0
+lr decay /iters = 160
+number of class to be attacked = 10
+learning rate = 0.0010000
+[1][10/391]	LossX  3824.53	LossY  5.13	TOP1  0.10	Data 0.002 
+[1][20/391]	LossX  3312.76	LossY  4.80	TOP1  0.10	Data 0.002 
+[1][30/391]	LossX  3073.22	LossY  4.62	TOP1  0.10	Data 0.002 
+[1][40/391]	LossX  2868.80	LossY  4.56	TOP1  0.10	Data 0.002 
+[1][50/391]	LossX  2720.17	LossY  4.54	TOP1  0.10	Data 0.002 
+[1][60/391]	LossX  2634.27	LossY  4.51	TOP1  0.10	Data 0.002 
+[1][70/391]	LossX  2549.48	LossY  4.52	TOP1  0.10	Data 0.002 
+[1][80/391]	LossX  2481.42	LossY  4.53	TOP1  0.10	Data 0.002 
+[1][90/391]	LossX  2409.92	LossY  4.52	TOP1  0.10	Data 0.002 
+[1][100/391]	LossX  2352.67	LossY  4.51	TOP1  0.10	Data 0.002 
+[1][110/391]	LossX  2300.14	LossY  4.50	TOP1  0.10	Data 0.002 
+[1][120/391]	LossX  2249.84	LossY  4.49	TOP1  0.10	Data 0.002 
+[1][130/391]	LossX  2208.49	LossY  4.48	TOP1  0.10	Data 0.002 
+[1][140/391]	LossX  2172.41	LossY  4.46	TOP1  0.10	Data 0.002 
+[1][150/391]	LossX  2139.76	LossY  4.46	TOP1  0.10	Data 0.002 
+[1][160/391]	LossX  2131.72	LossY  4.46	TOP1  0.10	Data 0.002 
+[1][170/391]	LossX  2106.61	LossY  4.45	TOP1  0.10	Data 0.002 
+[1][180/391]	LossX  2080.61	LossY  4.44	TOP1  0.10	Data 0.002 
+[1][190/391]	LossX  2056.52	LossY  4.43	TOP1  0.10	Data 0.002 
+[1][200/391]	LossX  2032.02	LossY  4.42	TOP1  0.10	Data 0.002 
+[1][210/391]	LossX  2009.27	LossY  4.41	TOP1  0.10	Data 0.002 
+[1][220/391]	LossX  1987.85	LossY  4.41	TOP1  0.10	Data 0.002 
+[1][230/391]	LossX  1963.34	LossY  4.41	TOP1  0.10	Data 0.002 
+[1][240/391]	LossX  1942.26	LossY  4.41	TOP1  0.10	Data 0.002 
+[1][250/391]	LossX  1920.94	LossY  4.41	TOP1  0.10	Data 0.002 
+[1][260/391]	LossX  1902.13	LossY  4.40	TOP1  0.10	Data 0.002 
+[1][270/391]	LossX  1881.80	LossY  4.40	TOP1  0.10	Data 0.002 
+[1][280/391]	LossX  1863.18	LossY  4.39	TOP1  0.10	Data 0.002 
+[1][290/391]	LossX  1843.99	LossY  4.39	TOP1  0.10	Data 0.002 
+[1][300/391]	LossX  1824.03	LossY  4.39	TOP1  0.10	Data 0.002 
+[1][310/391]	LossX  1806.22	LossY  4.39	TOP1  0.10	Data 0.002 
+[1][320/391]	LossX  1789.17	LossY  4.38	TOP1  0.10	Data 0.002 
+[1][330/391]	LossX  1774.17	LossY  4.38	TOP1  0.10	Data 0.002 
+[1][340/391]	LossX  1757.20	LossY  4.38	TOP1  0.10	Data 0.002 
+[1][350/391]	LossX  1743.32	LossY  4.38	TOP1  0.10	Data 0.002 
+[1][360/391]	LossX  1727.10	LossY  4.38	TOP1  0.10	Data 0.002 
+[1][370/391]	LossX  1713.43	LossY  4.38	TOP1  0.10	Data 0.002 
+[1][380/391]	LossX  1699.63	LossY  4.38	TOP1  0.10	Data 0.002 
+[1][390/391]	LossX  1685.17	LossY  4.38	TOP1  0.10	Data 0.002 
+saving the model at the end of epoch 1, iters 50048
+Traceback (most recent call last):
+  File "cifar_manr.py", line 232, in <module>
+    main()
+  File "cifar_manr.py", line 72, in main
+    train (opt,netD,netT,optimizer_G,train_loader_single, eps, optimizers, schedulers, mean_arr, stddev_arr)
+  File "cifar_manr.py", line 183, in train
+    save_networks(epoch,opt,netD,'D')
+  File "cifar_manr.py", line 221, in save_networks
+    net.cuda(opt.gpu_ids[0])
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 216, in cuda
+    return self._apply(lambda t: t.cuda(device))
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 146, in _apply
+    module._apply(fn)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 146, in _apply
+    module._apply(fn)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 146, in _apply
+    module._apply(fn)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 152, in _apply
+    param.data = fn(param.data)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 216, in <lambda>
+    return self._apply(lambda t: t.cuda(device))
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/_utils.py", line 61, in _cuda
+    with torch.cuda.device(device):
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/cuda/__init__.py", line 209, in __enter__
+    torch._C._cuda_setDevice(self.idx)
+RuntimeError: invalid argument to setDevice

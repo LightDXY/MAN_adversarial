@@ -1,0 +1,594 @@
+2
+basic setting:
+beta = 1200.0
+lr decay /iters = 160
+number of class to be attacked = 10
+learning rate = 0.0010000
+[1][10/391]	LossX  3732.45	LossY  6.24	TOP1  0.10	Data 0.002 
+[1][20/391]	LossX  3416.15	LossY  5.52	TOP1  0.10	Data 0.002 
+[1][30/391]	LossX  3197.31	LossY  5.32	TOP1  0.10	Data 0.002 
+[1][40/391]	LossX  3018.99	LossY  5.10	TOP1  0.10	Data 0.002 
+[1][50/391]	LossX  2841.29	LossY  5.02	TOP1  0.10	Data 0.002 
+[1][60/391]	LossX  2714.74	LossY  4.94	TOP1  0.10	Data 0.002 
+[1][70/391]	LossX  2594.86	LossY  4.87	TOP1  0.10	Data 0.002 
+[1][80/391]	LossX  2497.52	LossY  4.80	TOP1  0.10	Data 0.002 
+[1][90/391]	LossX  2417.17	LossY  4.73	TOP1  0.10	Data 0.002 
+[1][100/391]	LossX  2347.35	LossY  4.67	TOP1  0.10	Data 0.002 
+[1][110/391]	LossX  2292.86	LossY  4.60	TOP1  0.10	Data 0.002 
+[1][120/391]	LossX  2237.85	LossY  4.55	TOP1  0.10	Data 0.002 
+[1][130/391]	LossX  2190.38	LossY  4.51	TOP1  0.10	Data 0.002 
+[1][140/391]	LossX  2146.79	LossY  4.46	TOP1  0.10	Data 0.002 
+[1][150/391]	LossX  2109.34	LossY  4.43	TOP1  0.10	Data 0.002 
+[1][160/391]	LossX  2074.54	LossY  4.40	TOP1  0.10	Data 0.002 
+[1][170/391]	LossX  2042.12	LossY  4.37	TOP1  0.10	Data 0.002 
+[1][180/391]	LossX  2015.02	LossY  4.35	TOP1  0.10	Data 0.002 
+[1][190/391]	LossX  1988.49	LossY  4.33	TOP1  0.10	Data 0.002 
+[1][200/391]	LossX  1962.23	LossY  4.31	TOP1  0.10	Data 0.002 
+[1][210/391]	LossX  1939.67	LossY  4.30	TOP1  0.10	Data 0.002 
+[1][220/391]	LossX  1919.84	LossY  4.29	TOP1  0.10	Data 0.002 
+[1][230/391]	LossX  1901.45	LossY  4.28	TOP1  0.10	Data 0.002 
+[1][240/391]	LossX  1884.75	LossY  4.27	TOP1  0.10	Data 0.002 
+[1][250/391]	LossX  1867.25	LossY  4.26	TOP1  0.10	Data 0.002 
+[1][260/391]	LossX  1852.07	LossY  4.26	TOP1  0.10	Data 0.002 
+[1][270/391]	LossX  1832.32	LossY  4.25	TOP1  0.10	Data 0.002 
+[1][280/391]	LossX  1812.62	LossY  4.24	TOP1  0.10	Data 0.002 
+[1][290/391]	LossX  1793.11	LossY  4.23	TOP1  0.10	Data 0.002 
+[1][300/391]	LossX  1773.73	LossY  4.23	TOP1  0.10	Data 0.002 
+[1][310/391]	LossX  1753.95	LossY  4.22	TOP1  0.10	Data 0.002 
+[1][320/391]	LossX  1735.49	LossY  4.22	TOP1  0.10	Data 0.002 
+[1][330/391]	LossX  1718.52	LossY  4.21	TOP1  0.10	Data 0.002 
+[1][340/391]	LossX  1704.84	LossY  4.21	TOP1  0.10	Data 0.002 
+[1][350/391]	LossX  1688.43	LossY  4.21	TOP1  0.10	Data 0.002 
+[1][360/391]	LossX  1671.95	LossY  4.20	TOP1  0.10	Data 0.002 
+[1][370/391]	LossX  1657.13	LossY  4.20	TOP1  0.10	Data 0.002 
+[1][380/391]	LossX  1642.55	LossY  4.20	TOP1  0.10	Data 0.002 
+[1][390/391]	LossX  1628.87	LossY  4.19	TOP1  0.10	Data 0.002 
+saving the model at the end of epoch 1, iters 50048
+End of epoch 1 / 200 	 Time Taken: 122 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[2][10/391]	LossX  1066.97	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][20/391]	LossX  1049.68	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][30/391]	LossX  1046.71	LossY  4.11	TOP1  0.10	Data 0.002 
+[2][40/391]	LossX  1107.57	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][50/391]	LossX  1114.40	LossY  4.14	TOP1  0.10	Data 0.002 
+[2][60/391]	LossX  1114.05	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][70/391]	LossX  1107.23	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][80/391]	LossX  1101.35	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][90/391]	LossX  1095.40	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][100/391]	LossX  1086.80	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][110/391]	LossX  1084.11	LossY  4.12	TOP1  0.10	Data 0.002 
+[2][120/391]	LossX  1075.45	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][130/391]	LossX  1066.98	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][140/391]	LossX  1063.36	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][150/391]	LossX  1058.33	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][160/391]	LossX  1053.59	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][170/391]	LossX  1047.96	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][180/391]	LossX  1043.78	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][190/391]	LossX  1038.32	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][200/391]	LossX  1032.76	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][210/391]	LossX  1029.58	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][220/391]	LossX  1028.42	LossY  4.13	TOP1  0.10	Data 0.002 
+[2][230/391]	LossX  1024.64	LossY  4.13	TOP1  0.10	Data 0.002 
+saving the latest model (epoch 2, total_steps 80000)
+[2][240/391]	LossX  981.32	LossY  4.16	TOP1  0.10	Data 0.002 
+[2][250/391]	LossX  975.83	LossY  4.17	TOP1  0.10	Data 0.002 
+[2][260/391]	LossX  962.26	LossY  4.14	TOP1  0.11	Data 0.002 
+[2][270/391]	LossX  952.26	LossY  4.13	TOP1  0.11	Data 0.002 
+[2][280/391]	LossX  941.76	LossY  4.12	TOP1  0.11	Data 0.002 
+[2][290/391]	LossX  936.61	LossY  4.12	TOP1  0.11	Data 0.002 
+[2][300/391]	LossX  932.60	LossY  4.12	TOP1  0.11	Data 0.002 
+[2][310/391]	LossX  929.27	LossY  4.11	TOP1  0.11	Data 0.002 
+[2][320/391]	LossX  926.67	LossY  4.10	TOP1  0.11	Data 0.002 
+[2][330/391]	LossX  925.54	LossY  4.10	TOP1  0.11	Data 0.002 
+[2][340/391]	LossX  924.58	LossY  4.09	TOP1  0.11	Data 0.002 
+[2][350/391]	LossX  921.95	LossY  4.09	TOP1  0.11	Data 0.002 
+[2][360/391]	LossX  961.08	LossY  4.09	TOP1  0.11	Data 0.002 
+[2][370/391]	LossX  1070.55	LossY  4.16	TOP1  0.11	Data 0.002 
+[2][380/391]	LossX  1107.81	LossY  4.18	TOP1  0.11	Data 0.002 
+[2][390/391]	LossX  1122.25	LossY  4.18	TOP1  0.11	Data 0.002 
+saving the model at the end of epoch 2, iters 100096
+End of epoch 2 / 200 	 Time Taken: 121 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[3][10/391]	LossX  1141.75	LossY  4.14	TOP1  0.11	Data 0.002 
+[3][20/391]	LossX  1140.98	LossY  4.13	TOP1  0.11	Data 0.002 
+[3][30/391]	LossX  1113.05	LossY  4.14	TOP1  0.11	Data 0.002 
+[3][40/391]	LossX  1090.06	LossY  4.15	TOP1  0.11	Data 0.002 
+[3][50/391]	LossX  1070.23	LossY  4.13	TOP1  0.11	Data 0.002 
+[3][60/391]	LossX  1059.13	LossY  4.15	TOP1  0.11	Data 0.002 
+[3][70/391]	LossX  1044.26	LossY  4.13	TOP1  0.11	Data 0.002 
+[3][80/391]	LossX  1034.60	LossY  4.12	TOP1  0.11	Data 0.002 
+[3][90/391]	LossX  1023.22	LossY  4.11	TOP1  0.12	Data 0.002 
+[3][100/391]	LossX  1015.50	LossY  4.11	TOP1  0.12	Data 0.002 
+[3][110/391]	LossX  1005.84	LossY  4.10	TOP1  0.12	Data 0.002 
+[3][120/391]	LossX  998.69	LossY  4.10	TOP1  0.12	Data 0.002 
+[3][130/391]	LossX  992.09	LossY  4.09	TOP1  0.12	Data 0.002 
+[3][140/391]	LossX  986.22	LossY  4.08	TOP1  0.12	Data 0.002 
+[3][150/391]	LossX  980.66	LossY  4.07	TOP1  0.12	Data 0.002 
+[3][160/391]	LossX  975.70	LossY  4.07	TOP1  0.12	Data 0.002 
+[3][170/391]	LossX  969.66	LossY  4.07	TOP1  0.12	Data 0.002 
+[3][180/391]	LossX  963.79	LossY  4.06	TOP1  0.12	Data 0.002 
+[3][190/391]	LossX  959.77	LossY  4.05	TOP1  0.12	Data 0.002 
+[3][200/391]	LossX  955.23	LossY  4.05	TOP1  0.13	Data 0.002 
+[3][210/391]	LossX  950.48	LossY  4.04	TOP1  0.13	Data 0.002 
+[3][220/391]	LossX  946.53	LossY  4.03	TOP1  0.13	Data 0.002 
+[3][230/391]	LossX  943.51	LossY  4.02	TOP1  0.13	Data 0.002 
+[3][240/391]	LossX  940.97	LossY  4.02	TOP1  0.13	Data 0.002 
+[3][250/391]	LossX  937.57	LossY  4.01	TOP1  0.13	Data 0.002 
+[3][260/391]	LossX  934.98	LossY  4.01	TOP1  0.13	Data 0.002 
+[3][270/391]	LossX  931.50	LossY  4.00	TOP1  0.13	Data 0.002 
+[3][280/391]	LossX  928.91	LossY  3.99	TOP1  0.13	Data 0.002 
+[3][290/391]	LossX  926.12	LossY  3.99	TOP1  0.13	Data 0.002 
+[3][300/391]	LossX  923.27	LossY  3.98	TOP1  0.13	Data 0.002 
+[3][310/391]	LossX  921.29	LossY  3.98	TOP1  0.13	Data 0.002 
+[3][320/391]	LossX  920.21	LossY  3.97	TOP1  0.13	Data 0.002 
+[3][330/391]	LossX  917.02	LossY  3.97	TOP1  0.13	Data 0.002 
+[3][340/391]	LossX  914.91	LossY  3.96	TOP1  0.13	Data 0.002 
+[3][350/391]	LossX  913.74	LossY  3.96	TOP1  0.13	Data 0.002 
+[3][360/391]	LossX  911.26	LossY  3.95	TOP1  0.14	Data 0.002 
+[3][370/391]	LossX  908.95	LossY  3.95	TOP1  0.14	Data 0.002 
+[3][380/391]	LossX  906.60	LossY  3.95	TOP1  0.14	Data 0.002 
+[3][390/391]	LossX  905.28	LossY  3.94	TOP1  0.14	Data 0.002 
+saving the model at the end of epoch 3, iters 150144
+End of epoch 3 / 200 	 Time Taken: 118 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[4][10/391]	LossX  830.51	LossY  3.87	TOP1  0.13	Data 0.002 
+[4][20/391]	LossX  820.81	LossY  3.85	TOP1  0.14	Data 0.002 
+[4][30/391]	LossX  832.79	LossY  3.87	TOP1  0.14	Data 0.002 
+[4][40/391]	LossX  824.38	LossY  3.88	TOP1  0.14	Data 0.002 
+[4][50/391]	LossX  820.65	LossY  3.89	TOP1  0.14	Data 0.002 
+[4][60/391]	LossX  812.62	LossY  3.87	TOP1  0.14	Data 0.002 
+[4][70/391]	LossX  814.95	LossY  3.86	TOP1  0.14	Data 0.002 
+saving the latest model (epoch 4, total_steps 160000)
+[4][80/391]	LossX  814.33	LossY  3.78	TOP1  0.14	Data 0.002 
+[4][90/391]	LossX  808.32	LossY  3.85	TOP1  0.14	Data 0.002 
+[4][100/391]	LossX  800.98	LossY  3.81	TOP1  0.15	Data 0.002 
+[4][110/391]	LossX  792.30	LossY  3.82	TOP1  0.15	Data 0.002 
+[4][120/391]	LossX  796.25	LossY  3.81	TOP1  0.15	Data 0.002 
+[4][130/391]	LossX  797.12	LossY  3.83	TOP1  0.15	Data 0.002 
+[4][140/391]	LossX  793.27	LossY  3.82	TOP1  0.15	Data 0.002 
+[4][150/391]	LossX  784.44	LossY  3.83	TOP1  0.15	Data 0.002 
+[4][160/391]	LossX  786.84	LossY  3.82	TOP1  0.15	Data 0.002 
+[4][170/391]	LossX  788.69	LossY  3.82	TOP1  0.15	Data 0.002 
+[4][180/391]	LossX  788.39	LossY  3.82	TOP1  0.14	Data 0.002 
+[4][190/391]	LossX  784.41	LossY  3.81	TOP1  0.15	Data 0.002 
+[4][200/391]	LossX  782.50	LossY  3.81	TOP1  0.15	Data 0.002 
+[4][210/391]	LossX  781.09	LossY  3.80	TOP1  0.15	Data 0.002 
+[4][220/391]	LossX  782.67	LossY  3.80	TOP1  0.15	Data 0.002 
+[4][230/391]	LossX  778.85	LossY  3.80	TOP1  0.15	Data 0.002 
+[4][240/391]	LossX  775.41	LossY  3.80	TOP1  0.15	Data 0.002 
+[4][250/391]	LossX  772.49	LossY  3.80	TOP1  0.15	Data 0.002 
+[4][260/391]	LossX  769.35	LossY  3.79	TOP1  0.15	Data 0.002 
+[4][270/391]	LossX  766.75	LossY  3.79	TOP1  0.15	Data 0.002 
+[4][280/391]	LossX  763.81	LossY  3.79	TOP1  0.15	Data 0.002 
+[4][290/391]	LossX  761.05	LossY  3.78	TOP1  0.15	Data 0.002 
+[4][300/391]	LossX  760.54	LossY  3.78	TOP1  0.15	Data 0.002 
+[4][310/391]	LossX  758.00	LossY  3.78	TOP1  0.15	Data 0.002 
+[4][320/391]	LossX  756.21	LossY  3.78	TOP1  0.15	Data 0.002 
+[4][330/391]	LossX  754.23	LossY  3.77	TOP1  0.15	Data 0.002 
+[4][340/391]	LossX  753.26	LossY  3.78	TOP1  0.15	Data 0.002 
+[4][350/391]	LossX  751.84	LossY  3.77	TOP1  0.15	Data 0.002 
+[4][360/391]	LossX  750.41	LossY  3.77	TOP1  0.15	Data 0.002 
+[4][370/391]	LossX  749.09	LossY  3.77	TOP1  0.15	Data 0.002 
+[4][380/391]	LossX  746.68	LossY  3.77	TOP1  0.15	Data 0.002 
+[4][390/391]	LossX  746.97	LossY  3.77	TOP1  0.15	Data 0.002 
+saving the model at the end of epoch 4, iters 200192
+End of epoch 4 / 200 	 Time Taken: 121 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[5][10/391]	LossX  693.36	LossY  3.76	TOP1  0.15	Data 0.002 
+[5][20/391]	LossX  702.18	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][30/391]	LossX  704.72	LossY  3.73	TOP1  0.15	Data 0.002 
+[5][40/391]	LossX  698.61	LossY  3.73	TOP1  0.15	Data 0.002 
+[5][50/391]	LossX  699.27	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][60/391]	LossX  698.89	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][70/391]	LossX  697.46	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][80/391]	LossX  692.61	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][90/391]	LossX  691.73	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][100/391]	LossX  690.43	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][110/391]	LossX  690.41	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][120/391]	LossX  690.02	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][130/391]	LossX  689.87	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][140/391]	LossX  690.59	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][150/391]	LossX  686.22	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][160/391]	LossX  683.99	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][170/391]	LossX  682.66	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][180/391]	LossX  683.02	LossY  3.72	TOP1  0.15	Data 0.002 
+[5][190/391]	LossX  682.50	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][200/391]	LossX  681.88	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][210/391]	LossX  680.25	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][220/391]	LossX  680.29	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][230/391]	LossX  677.62	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][240/391]	LossX  677.36	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][250/391]	LossX  676.69	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][260/391]	LossX  675.51	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][270/391]	LossX  673.95	LossY  3.71	TOP1  0.15	Data 0.002 
+[5][280/391]	LossX  673.95	LossY  3.71	TOP1  0.16	Data 0.002 
+[5][290/391]	LossX  673.51	LossY  3.70	TOP1  0.16	Data 0.002 
+[5][300/391]	LossX  672.22	LossY  3.70	TOP1  0.16	Data 0.002 
+[5][310/391]	LossX  671.87	LossY  3.70	TOP1  0.16	Data 0.002 
+saving the latest model (epoch 5, total_steps 240000)
+[5][320/391]	LossX  651.18	LossY  3.71	TOP1  0.16	Data 0.002 
+[5][330/391]	LossX  643.13	LossY  3.67	TOP1  0.16	Data 0.002 
+[5][340/391]	LossX  647.92	LossY  3.68	TOP1  0.16	Data 0.002 
+[5][350/391]	LossX  643.32	LossY  3.68	TOP1  0.16	Data 0.002 
+[5][360/391]	LossX  649.61	LossY  3.67	TOP1  0.16	Data 0.002 
+[5][370/391]	LossX  646.72	LossY  3.66	TOP1  0.16	Data 0.002 
+[5][380/391]	LossX  649.01	LossY  3.66	TOP1  0.16	Data 0.002 
+[5][390/391]	LossX  650.27	LossY  3.66	TOP1  0.16	Data 0.002 
+saving the model at the end of epoch 5, iters 250240
+End of epoch 5 / 200 	 Time Taken: 120 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[6][10/391]	LossX  623.30	LossY  3.70	TOP1  0.15	Data 0.002 
+[6][20/391]	LossX  625.06	LossY  3.69	TOP1  0.15	Data 0.002 
+[6][30/391]	LossX  629.37	LossY  3.67	TOP1  0.16	Data 0.002 
+[6][40/391]	LossX  634.55	LossY  3.67	TOP1  0.16	Data 0.002 
+[6][50/391]	LossX  634.03	LossY  3.66	TOP1  0.16	Data 0.002 
+[6][60/391]	LossX  629.46	LossY  3.66	TOP1  0.16	Data 0.002 
+[6][70/391]	LossX  626.65	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][80/391]	LossX  628.93	LossY  3.66	TOP1  0.16	Data 0.002 
+[6][90/391]	LossX  628.78	LossY  3.66	TOP1  0.16	Data 0.002 
+[6][100/391]	LossX  627.77	LossY  3.67	TOP1  0.16	Data 0.002 
+[6][110/391]	LossX  628.56	LossY  3.67	TOP1  0.16	Data 0.002 
+[6][120/391]	LossX  633.12	LossY  3.66	TOP1  0.16	Data 0.002 
+[6][130/391]	LossX  630.35	LossY  3.66	TOP1  0.16	Data 0.002 
+[6][140/391]	LossX  629.73	LossY  3.66	TOP1  0.16	Data 0.002 
+[6][150/391]	LossX  627.37	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][160/391]	LossX  625.34	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][170/391]	LossX  626.36	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][180/391]	LossX  624.57	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][190/391]	LossX  624.15	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][200/391]	LossX  623.08	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][210/391]	LossX  624.45	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][220/391]	LossX  623.89	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][230/391]	LossX  623.21	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][240/391]	LossX  622.51	LossY  3.65	TOP1  0.16	Data 0.002 
+[6][250/391]	LossX  621.58	LossY  3.64	TOP1  0.16	Data 0.002 
+[6][260/391]	LossX  620.66	LossY  3.64	TOP1  0.16	Data 0.002 
+[6][270/391]	LossX  620.68	LossY  3.64	TOP1  0.16	Data 0.002 
+[6][280/391]	LossX  620.99	LossY  3.64	TOP1  0.16	Data 0.002 
+[6][290/391]	LossX  619.51	LossY  3.64	TOP1  0.16	Data 0.002 
+[6][300/391]	LossX  619.22	LossY  3.64	TOP1  0.16	Data 0.002 
+[6][310/391]	LossX  618.19	LossY  3.64	TOP1  0.17	Data 0.002 
+[6][320/391]	LossX  618.36	LossY  3.64	TOP1  0.17	Data 0.002 
+[6][330/391]	LossX  616.97	LossY  3.63	TOP1  0.17	Data 0.002 
+[6][340/391]	LossX  616.59	LossY  3.63	TOP1  0.17	Data 0.002 
+[6][350/391]	LossX  616.21	LossY  3.63	TOP1  0.17	Data 0.002 
+[6][360/391]	LossX  616.38	LossY  3.63	TOP1  0.17	Data 0.002 
+[6][370/391]	LossX  616.64	LossY  3.63	TOP1  0.17	Data 0.002 
+[6][380/391]	LossX  615.58	LossY  3.62	TOP1  0.17	Data 0.002 
+[6][390/391]	LossX  614.53	LossY  3.62	TOP1  0.17	Data 0.002 
+saving the model at the end of epoch 6, iters 300288
+End of epoch 6 / 200 	 Time Taken: 117 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[7][10/391]	LossX  591.07	LossY  3.60	TOP1  0.17	Data 0.002 
+[7][20/391]	LossX  600.78	LossY  3.55	TOP1  0.18	Data 0.002 
+[7][30/391]	LossX  603.46	LossY  3.56	TOP1  0.18	Data 0.002 
+[7][40/391]	LossX  603.35	LossY  3.55	TOP1  0.18	Data 0.002 
+[7][50/391]	LossX  599.97	LossY  3.54	TOP1  0.18	Data 0.002 
+[7][60/391]	LossX  603.33	LossY  3.55	TOP1  0.18	Data 0.002 
+[7][70/391]	LossX  602.10	LossY  3.54	TOP1  0.18	Data 0.002 
+[7][80/391]	LossX  599.20	LossY  3.54	TOP1  0.18	Data 0.002 
+[7][90/391]	LossX  598.98	LossY  3.54	TOP1  0.18	Data 0.002 
+[7][100/391]	LossX  600.45	LossY  3.54	TOP1  0.18	Data 0.002 
+[7][110/391]	LossX  600.50	LossY  3.54	TOP1  0.18	Data 0.002 
+[7][120/391]	LossX  602.01	LossY  3.53	TOP1  0.18	Data 0.002 
+[7][130/391]	LossX  602.82	LossY  3.54	TOP1  0.18	Data 0.002 
+[7][140/391]	LossX  602.66	LossY  3.53	TOP1  0.18	Data 0.002 
+[7][150/391]	LossX  601.71	LossY  3.53	TOP1  0.18	Data 0.002 
+saving the latest model (epoch 7, total_steps 320000)
+[7][160/391]	LossX  591.77	LossY  3.52	TOP1  0.19	Data 0.002 
+[7][170/391]	LossX  588.82	LossY  3.50	TOP1  0.19	Data 0.002 
+[7][180/391]	LossX  587.88	LossY  3.47	TOP1  0.19	Data 0.002 
+[7][190/391]	LossX  604.39	LossY  3.50	TOP1  0.19	Data 0.002 
+[7][200/391]	LossX  602.02	LossY  3.49	TOP1  0.19	Data 0.002 
+[7][210/391]	LossX  598.98	LossY  3.49	TOP1  0.19	Data 0.002 
+[7][220/391]	LossX  608.63	LossY  3.49	TOP1  0.19	Data 0.002 
+[7][230/391]	LossX  607.35	LossY  3.48	TOP1  0.19	Data 0.002 
+[7][240/391]	LossX  604.84	LossY  3.47	TOP1  0.19	Data 0.002 
+[7][250/391]	LossX  602.02	LossY  3.47	TOP1  0.19	Data 0.002 
+[7][260/391]	LossX  599.72	LossY  3.47	TOP1  0.19	Data 0.002 
+[7][270/391]	LossX  604.62	LossY  3.46	TOP1  0.19	Data 0.002 
+[7][280/391]	LossX  602.11	LossY  3.46	TOP1  0.19	Data 0.002 
+[7][290/391]	LossX  598.75	LossY  3.46	TOP1  0.19	Data 0.002 
+[7][300/391]	LossX  597.12	LossY  3.46	TOP1  0.19	Data 0.002 
+[7][310/391]	LossX  596.33	LossY  3.45	TOP1  0.19	Data 0.002 
+[7][320/391]	LossX  595.60	LossY  3.44	TOP1  0.19	Data 0.002 
+[7][330/391]	LossX  595.52	LossY  3.44	TOP1  0.20	Data 0.002 
+[7][340/391]	LossX  596.06	LossY  3.43	TOP1  0.20	Data 0.002 
+[7][350/391]	LossX  594.55	LossY  3.43	TOP1  0.20	Data 0.002 
+[7][360/391]	LossX  594.28	LossY  3.43	TOP1  0.20	Data 0.002 
+[7][370/391]	LossX  594.23	LossY  3.43	TOP1  0.20	Data 0.002 
+[7][380/391]	LossX  593.37	LossY  3.42	TOP1  0.20	Data 0.002 
+[7][390/391]	LossX  592.17	LossY  3.42	TOP1  0.20	Data 0.002 
+saving the model at the end of epoch 7, iters 350336
+End of epoch 7 / 200 	 Time Taken: 119 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[8][10/391]	LossX  577.39	LossY  3.31	TOP1  0.22	Data 0.002 
+[8][20/391]	LossX  583.61	LossY  3.32	TOP1  0.21	Data 0.002 
+[8][30/391]	LossX  581.63	LossY  3.34	TOP1  0.21	Data 0.002 
+[8][40/391]	LossX  579.89	LossY  3.33	TOP1  0.21	Data 0.002 
+[8][50/391]	LossX  576.35	LossY  3.32	TOP1  0.22	Data 0.002 
+[8][60/391]	LossX  569.60	LossY  3.30	TOP1  0.22	Data 0.002 
+[8][70/391]	LossX  569.14	LossY  3.30	TOP1  0.22	Data 0.002 
+[8][80/391]	LossX  575.04	LossY  3.30	TOP1  0.22	Data 0.002 
+[8][90/391]	LossX  577.01	LossY  3.30	TOP1  0.22	Data 0.002 
+[8][100/391]	LossX  574.50	LossY  3.29	TOP1  0.22	Data 0.002 
+[8][110/391]	LossX  575.75	LossY  3.29	TOP1  0.22	Data 0.002 
+[8][120/391]	LossX  577.05	LossY  3.28	TOP1  0.22	Data 0.002 
+[8][130/391]	LossX  577.58	LossY  3.28	TOP1  0.22	Data 0.002 
+[8][140/391]	LossX  575.54	LossY  3.28	TOP1  0.22	Data 0.002 
+[8][150/391]	LossX  575.74	LossY  3.27	TOP1  0.22	Data 0.002 
+[8][160/391]	LossX  574.86	LossY  3.27	TOP1  0.22	Data 0.002 
+[8][170/391]	LossX  574.77	LossY  3.28	TOP1  0.22	Data 0.002 
+[8][180/391]	LossX  575.42	LossY  3.27	TOP1  0.22	Data 0.002 
+[8][190/391]	LossX  573.53	LossY  3.27	TOP1  0.22	Data 0.002 
+[8][200/391]	LossX  573.46	LossY  3.27	TOP1  0.22	Data 0.002 
+[8][210/391]	LossX  572.45	LossY  3.26	TOP1  0.22	Data 0.002 
+[8][220/391]	LossX  572.86	LossY  3.26	TOP1  0.22	Data 0.002 
+[8][230/391]	LossX  571.17	LossY  3.26	TOP1  0.22	Data 0.002 
+[8][240/391]	LossX  571.34	LossY  3.25	TOP1  0.22	Data 0.002 
+[8][250/391]	LossX  570.98	LossY  3.25	TOP1  0.23	Data 0.002 
+[8][260/391]	LossX  570.70	LossY  3.25	TOP1  0.23	Data 0.002 
+[8][270/391]	LossX  571.33	LossY  3.24	TOP1  0.23	Data 0.002 
+[8][280/391]	LossX  571.43	LossY  3.24	TOP1  0.23	Data 0.002 
+[8][290/391]	LossX  570.83	LossY  3.23	TOP1  0.23	Data 0.002 
+[8][300/391]	LossX  570.33	LossY  3.22	TOP1  0.23	Data 0.002 
+[8][310/391]	LossX  569.06	LossY  3.22	TOP1  0.23	Data 0.002 
+[8][320/391]	LossX  569.77	LossY  3.21	TOP1  0.23	Data 0.002 
+[8][330/391]	LossX  569.62	LossY  3.21	TOP1  0.23	Data 0.002 
+[8][340/391]	LossX  570.18	LossY  3.20	TOP1  0.23	Data 0.002 
+[8][350/391]	LossX  570.45	LossY  3.20	TOP1  0.23	Data 0.002 
+[8][360/391]	LossX  569.93	LossY  3.19	TOP1  0.23	Data 0.002 
+[8][370/391]	LossX  570.25	LossY  3.19	TOP1  0.23	Data 0.002 
+[8][380/391]	LossX  569.74	LossY  3.18	TOP1  0.23	Data 0.002 
+saving the latest model (epoch 8, total_steps 400000)
+[8][390/391]	LossX  553.10	LossY  2.79	TOP1  0.30	Data 0.002 
+saving the model at the end of epoch 8, iters 400384
+End of epoch 8 / 200 	 Time Taken: 120 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[9][10/391]	LossX  576.30	LossY  3.00	TOP1  0.26	Data 0.002 
+[9][20/391]	LossX  563.26	LossY  2.99	TOP1  0.26	Data 0.002 
+[9][30/391]	LossX  556.52	LossY  2.97	TOP1  0.26	Data 0.002 
+[9][40/391]	LossX  559.17	LossY  2.97	TOP1  0.26	Data 0.002 
+[9][50/391]	LossX  554.21	LossY  2.96	TOP1  0.27	Data 0.002 
+[9][60/391]	LossX  554.29	LossY  2.97	TOP1  0.26	Data 0.002 
+[9][70/391]	LossX  557.40	LossY  2.95	TOP1  0.27	Data 0.002 
+[9][80/391]	LossX  555.25	LossY  2.95	TOP1  0.27	Data 0.002 
+[9][90/391]	LossX  552.87	LossY  2.94	TOP1  0.27	Data 0.002 
+[9][100/391]	LossX  553.29	LossY  2.93	TOP1  0.27	Data 0.002 
+[9][110/391]	LossX  552.55	LossY  2.92	TOP1  0.27	Data 0.002 
+[9][120/391]	LossX  551.93	LossY  2.92	TOP1  0.27	Data 0.002 
+[9][130/391]	LossX  550.17	LossY  2.91	TOP1  0.27	Data 0.002 
+[9][140/391]	LossX  550.61	LossY  2.91	TOP1  0.28	Data 0.002 
+[9][150/391]	LossX  550.56	LossY  2.90	TOP1  0.28	Data 0.002 
+[9][160/391]	LossX  551.35	LossY  2.90	TOP1  0.28	Data 0.002 
+[9][170/391]	LossX  551.81	LossY  2.89	TOP1  0.28	Data 0.002 
+[9][180/391]	LossX  553.55	LossY  2.88	TOP1  0.28	Data 0.002 
+[9][190/391]	LossX  554.93	LossY  2.88	TOP1  0.28	Data 0.002 
+[9][200/391]	LossX  554.42	LossY  2.87	TOP1  0.28	Data 0.002 
+[9][210/391]	LossX  554.14	LossY  2.86	TOP1  0.28	Data 0.002 
+[9][220/391]	LossX  555.77	LossY  2.86	TOP1  0.28	Data 0.002 
+[9][230/391]	LossX  555.90	LossY  2.85	TOP1  0.28	Data 0.002 
+[9][240/391]	LossX  556.36	LossY  2.85	TOP1  0.29	Data 0.002 
+[9][250/391]	LossX  554.78	LossY  2.84	TOP1  0.29	Data 0.002 
+[9][260/391]	LossX  553.70	LossY  2.84	TOP1  0.29	Data 0.002 
+[9][270/391]	LossX  552.89	LossY  2.83	TOP1  0.29	Data 0.002 
+[9][280/391]	LossX  551.38	LossY  2.83	TOP1  0.29	Data 0.002 
+[9][290/391]	LossX  551.01	LossY  2.82	TOP1  0.29	Data 0.002 
+[9][300/391]	LossX  550.06	LossY  2.82	TOP1  0.29	Data 0.002 
+[9][310/391]	LossX  551.36	LossY  2.82	TOP1  0.29	Data 0.002 
+[9][320/391]	LossX  550.92	LossY  2.81	TOP1  0.29	Data 0.002 
+[9][330/391]	LossX  550.87	LossY  2.80	TOP1  0.30	Data 0.002 
+[9][340/391]	LossX  550.11	LossY  2.79	TOP1  0.30	Data 0.002 
+[9][350/391]	LossX  549.93	LossY  2.79	TOP1  0.30	Data 0.002 
+[9][360/391]	LossX  549.91	LossY  2.78	TOP1  0.30	Data 0.002 
+[9][370/391]	LossX  548.99	LossY  2.78	TOP1  0.30	Data 0.002 
+[9][380/391]	LossX  548.07	LossY  2.77	TOP1  0.30	Data 0.002 
+[9][390/391]	LossX  547.49	LossY  2.77	TOP1  0.30	Data 0.002 
+saving the model at the end of epoch 9, iters 450432
+End of epoch 9 / 200 	 Time Taken: 119 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[10][10/391]	LossX  521.12	LossY  2.41	TOP1  0.37	Data 0.002 
+[10][20/391]	LossX  528.00	LossY  2.43	TOP1  0.37	Data 0.002 
+[10][30/391]	LossX  545.13	LossY  2.46	TOP1  0.36	Data 0.002 
+[10][40/391]	LossX  551.71	LossY  2.46	TOP1  0.36	Data 0.002 
+[10][50/391]	LossX  548.58	LossY  2.44	TOP1  0.37	Data 0.002 
+[10][60/391]	LossX  546.48	LossY  2.43	TOP1  0.37	Data 0.002 
+[10][70/391]	LossX  543.91	LossY  2.42	TOP1  0.37	Data 0.002 
+[10][80/391]	LossX  542.38	LossY  2.41	TOP1  0.37	Data 0.002 
+[10][90/391]	LossX  543.24	LossY  2.42	TOP1  0.37	Data 0.002 
+[10][100/391]	LossX  549.30	LossY  2.48	TOP1  0.36	Data 0.002 
+[10][110/391]	LossX  550.24	LossY  2.51	TOP1  0.36	Data 0.002 
+[10][120/391]	LossX  551.45	LossY  2.51	TOP1  0.36	Data 0.002 
+[10][130/391]	LossX  549.69	LossY  2.52	TOP1  0.36	Data 0.002 
+[10][140/391]	LossX  550.42	LossY  2.52	TOP1  0.36	Data 0.002 
+[10][150/391]	LossX  550.23	LossY  2.51	TOP1  0.36	Data 0.002 
+[10][160/391]	LossX  548.76	LossY  2.50	TOP1  0.36	Data 0.002 
+[10][170/391]	LossX  549.01	LossY  2.49	TOP1  0.36	Data 0.002 
+[10][180/391]	LossX  548.15	LossY  2.47	TOP1  0.36	Data 0.002 
+[10][190/391]	LossX  546.19	LossY  2.46	TOP1  0.36	Data 0.002 
+[10][200/391]	LossX  544.51	LossY  2.45	TOP1  0.37	Data 0.002 
+[10][210/391]	LossX  544.72	LossY  2.44	TOP1  0.37	Data 0.002 
+[10][220/391]	LossX  544.99	LossY  2.43	TOP1  0.37	Data 0.002 
+[10][230/391]	LossX  543.92	LossY  2.42	TOP1  0.37	Data 0.002 
+saving the latest model (epoch 10, total_steps 480000)
+[10][240/391]	LossX  562.79	LossY  2.14	TOP1  0.43	Data 0.002 
+[10][250/391]	LossX  526.15	LossY  2.15	TOP1  0.43	Data 0.002 
+[10][260/391]	LossX  525.53	LossY  2.16	TOP1  0.43	Data 0.002 
+[10][270/391]	LossX  518.23	LossY  2.16	TOP1  0.43	Data 0.002 
+[10][280/391]	LossX  518.37	LossY  2.14	TOP1  0.43	Data 0.002 
+[10][290/391]	LossX  516.52	LossY  2.13	TOP1  0.43	Data 0.002 
+[10][300/391]	LossX  519.55	LossY  2.13	TOP1  0.44	Data 0.002 
+[10][310/391]	LossX  518.20	LossY  2.12	TOP1  0.44	Data 0.002 
+[10][320/391]	LossX  922.48	LossY  2.42	TOP1  0.40	Data 0.002 
+[10][330/391]	LossX  1156.03	LossY  2.66	TOP1  0.37	Data 0.002 
+[10][340/391]	LossX  1274.32	LossY  2.85	TOP1  0.35	Data 0.002 
+[10][350/391]	LossX  1352.34	LossY  2.95	TOP1  0.33	Data 0.002 
+[10][360/391]	LossX  1401.50	LossY  3.02	TOP1  0.31	Data 0.002 
+[10][370/391]	LossX  1437.73	LossY  3.06	TOP1  0.29	Data 0.002 
+[10][380/391]	LossX  1465.18	LossY  3.10	TOP1  0.28	Data 0.002 
+[10][390/391]	LossX  1480.08	LossY  3.14	TOP1  0.27	Data 0.002 
+saving the model at the end of epoch 10, iters 500480
+End of epoch 10 / 200 	 Time Taken: 116 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[11][10/391]	LossX  1565.11	LossY  3.90	TOP1  0.09	Data 0.002 
+[11][20/391]	LossX  1536.10	LossY  3.96	TOP1  0.10	Data 0.002 
+[11][30/391]	LossX  1479.63	LossY  3.99	TOP1  0.10	Data 0.002 
+[11][40/391]	LossX  1446.06	LossY  4.02	TOP1  0.10	Data 0.002 
+[11][50/391]	LossX  1407.47	LossY  4.08	TOP1  0.10	Data 0.002 
+[11][60/391]	LossX  1383.64	LossY  4.10	TOP1  0.10	Data 0.002 
+[11][70/391]	LossX  1357.21	LossY  4.11	TOP1  0.10	Data 0.002 
+[11][80/391]	LossX  1331.52	LossY  4.12	TOP1  0.10	Data 0.002 
+[11][90/391]	LossX  1310.22	LossY  4.14	TOP1  0.10	Data 0.002 
+[11][100/391]	LossX  1291.98	LossY  4.15	TOP1  0.10	Data 0.002 
+[11][110/391]	LossX  1276.23	LossY  4.16	TOP1  0.10	Data 0.002 
+[11][120/391]	LossX  1259.88	LossY  4.16	TOP1  0.10	Data 0.002 
+[11][130/391]	LossX  1244.61	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][140/391]	LossX  1230.24	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][150/391]	LossX  1216.60	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][160/391]	LossX  1208.08	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][170/391]	LossX  1197.85	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][180/391]	LossX  1188.08	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][190/391]	LossX  1179.42	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][200/391]	LossX  1170.83	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][210/391]	LossX  1162.84	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][220/391]	LossX  1155.71	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][230/391]	LossX  1147.89	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][240/391]	LossX  1140.17	LossY  4.17	TOP1  0.10	Data 0.002 
+[11][250/391]	LossX  1134.18	LossY  4.16	TOP1  0.10	Data 0.002 
+[11][260/391]	LossX  1128.38	LossY  4.16	TOP1  0.10	Data 0.002 
+[11][270/391]	LossX  1121.51	LossY  4.16	TOP1  0.10	Data 0.002 
+[11][280/391]	LossX  1115.29	LossY  4.16	TOP1  0.11	Data 0.002 
+[11][290/391]	LossX  1109.86	LossY  4.15	TOP1  0.11	Data 0.002 
+[11][300/391]	LossX  1104.79	LossY  4.15	TOP1  0.11	Data 0.002 
+[11][310/391]	LossX  1099.59	LossY  4.15	TOP1  0.11	Data 0.002 
+[11][320/391]	LossX  1094.70	LossY  4.15	TOP1  0.11	Data 0.002 
+[11][330/391]	LossX  1090.24	LossY  4.14	TOP1  0.11	Data 0.002 
+[11][340/391]	LossX  1085.28	LossY  4.14	TOP1  0.11	Data 0.002 
+[11][350/391]	LossX  1080.72	LossY  4.14	TOP1  0.11	Data 0.002 
+[11][360/391]	LossX  1076.67	LossY  4.13	TOP1  0.11	Data 0.002 
+[11][370/391]	LossX  1072.67	LossY  4.13	TOP1  0.11	Data 0.002 
+[11][380/391]	LossX  1068.78	LossY  4.13	TOP1  0.11	Data 0.002 
+[11][390/391]	LossX  1065.21	LossY  4.12	TOP1  0.11	Data 0.002 
+saving the model at the end of epoch 11, iters 550528
+End of epoch 11 / 200 	 Time Taken: 120 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[12][10/391]	LossX  905.29	LossY  3.99	TOP1  0.13	Data 0.002 
+[12][20/391]	LossX  908.51	LossY  3.98	TOP1  0.14	Data 0.002 
+[12][30/391]	LossX  916.73	LossY  3.98	TOP1  0.14	Data 0.002 
+[12][40/391]	LossX  916.56	LossY  3.97	TOP1  0.14	Data 0.002 
+[12][50/391]	LossX  914.48	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][60/391]	LossX  906.53	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][70/391]	LossX  900.38	LossY  3.99	TOP1  0.14	Data 0.002 
+saving the latest model (epoch 12, total_steps 560000)
+[12][80/391]	LossX  850.09	LossY  4.07	TOP1  0.14	Data 0.002 
+[12][90/391]	LossX  862.85	LossY  4.05	TOP1  0.14	Data 0.002 
+[12][100/391]	LossX  867.66	LossY  4.02	TOP1  0.14	Data 0.002 
+[12][110/391]	LossX  855.75	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][120/391]	LossX  843.84	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][130/391]	LossX  836.80	LossY  4.00	TOP1  0.14	Data 0.002 
+[12][140/391]	LossX  832.66	LossY  4.02	TOP1  0.14	Data 0.002 
+[12][150/391]	LossX  831.04	LossY  4.03	TOP1  0.14	Data 0.002 
+[12][160/391]	LossX  828.07	LossY  4.04	TOP1  0.14	Data 0.002 
+[12][170/391]	LossX  823.37	LossY  4.04	TOP1  0.14	Data 0.002 
+[12][180/391]	LossX  819.84	LossY  4.05	TOP1  0.14	Data 0.002 
+[12][190/391]	LossX  813.37	LossY  4.04	TOP1  0.14	Data 0.002 
+[12][200/391]	LossX  811.08	LossY  4.04	TOP1  0.14	Data 0.002 
+[12][210/391]	LossX  808.18	LossY  4.04	TOP1  0.14	Data 0.002 
+[12][220/391]	LossX  805.30	LossY  4.03	TOP1  0.14	Data 0.002 
+[12][230/391]	LossX  802.42	LossY  4.03	TOP1  0.14	Data 0.002 
+[12][240/391]	LossX  799.07	LossY  4.02	TOP1  0.14	Data 0.002 
+[12][250/391]	LossX  797.19	LossY  4.02	TOP1  0.14	Data 0.002 
+[12][260/391]	LossX  794.49	LossY  4.02	TOP1  0.14	Data 0.002 
+[12][270/391]	LossX  795.59	LossY  4.02	TOP1  0.14	Data 0.002 
+[12][280/391]	LossX  794.75	LossY  4.01	TOP1  0.14	Data 0.002 
+[12][290/391]	LossX  792.18	LossY  4.01	TOP1  0.14	Data 0.002 
+[12][300/391]	LossX  789.06	LossY  4.00	TOP1  0.14	Data 0.002 
+[12][310/391]	LossX  786.76	LossY  4.00	TOP1  0.14	Data 0.002 
+[12][320/391]	LossX  784.83	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][330/391]	LossX  782.39	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][340/391]	LossX  780.11	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][350/391]	LossX  777.74	LossY  3.99	TOP1  0.14	Data 0.002 
+[12][360/391]	LossX  775.80	LossY  3.98	TOP1  0.14	Data 0.002 
+[12][370/391]	LossX  774.27	LossY  3.98	TOP1  0.14	Data 0.002 
+[12][380/391]	LossX  773.10	LossY  3.98	TOP1  0.14	Data 0.002 
+[12][390/391]	LossX  771.47	LossY  3.98	TOP1  0.14	Data 0.002 
+saving the model at the end of epoch 12, iters 600576
+End of epoch 12 / 200 	 Time Taken: 120 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[13][10/391]	LossX  685.21	LossY  3.92	TOP1  0.15	Data 0.002 
+[13][20/391]	LossX  689.57	LossY  3.89	TOP1  0.15	Data 0.002 
+[13][30/391]	LossX  697.97	LossY  3.89	TOP1  0.15	Data 0.002 
+[13][40/391]	LossX  707.88	LossY  3.91	TOP1  0.15	Data 0.002 
+[13][50/391]	LossX  707.89	LossY  3.91	TOP1  0.15	Data 0.002 
+[13][60/391]	LossX  703.05	LossY  3.90	TOP1  0.15	Data 0.002 
+[13][70/391]	LossX  702.19	LossY  3.90	TOP1  0.15	Data 0.002 
+[13][80/391]	LossX  700.18	LossY  3.90	TOP1  0.15	Data 0.002 
+[13][90/391]	LossX  697.90	LossY  3.89	TOP1  0.15	Data 0.002 
+[13][100/391]	LossX  697.58	LossY  3.88	TOP1  0.15	Data 0.002 
+[13][110/391]	LossX  699.51	LossY  3.87	TOP1  0.15	Data 0.002 
+[13][120/391]	LossX  698.58	LossY  3.87	TOP1  0.15	Data 0.002 
+[13][130/391]	LossX  696.47	LossY  3.87	TOP1  0.15	Data 0.002 
+[13][140/391]	LossX  693.72	LossY  3.87	TOP1  0.15	Data 0.002 
+[13][150/391]	LossX  694.49	LossY  3.86	TOP1  0.15	Data 0.002 
+[13][160/391]	LossX  690.95	LossY  3.86	TOP1  0.15	Data 0.002 
+[13][170/391]	LossX  689.04	LossY  3.86	TOP1  0.15	Data 0.002 
+[13][180/391]	LossX  688.20	LossY  3.85	TOP1  0.15	Data 0.002 
+[13][190/391]	LossX  687.89	LossY  3.85	TOP1  0.15	Data 0.002 
+[13][200/391]	LossX  686.11	LossY  3.85	TOP1  0.15	Data 0.002 
+[13][210/391]	LossX  685.72	LossY  3.85	TOP1  0.15	Data 0.002 
+[13][220/391]	LossX  685.80	LossY  3.84	TOP1  0.15	Data 0.002 
+[13][230/391]	LossX  685.29	LossY  3.84	TOP1  0.15	Data 0.002 
+[13][240/391]	LossX  684.36	LossY  3.84	TOP1  0.15	Data 0.002 
+[13][250/391]	LossX  684.35	LossY  3.84	TOP1  0.15	Data 0.002 
+[13][260/391]	LossX  682.49	LossY  3.84	TOP1  0.15	Data 0.002 
+[13][270/391]	LossX  681.61	LossY  3.84	TOP1  0.16	Data 0.002 
+[13][280/391]	LossX  680.10	LossY  3.83	TOP1  0.16	Data 0.002 
+[13][290/391]	LossX  679.26	LossY  3.83	TOP1  0.16	Data 0.002 
+[13][300/391]	LossX  677.76	LossY  3.83	TOP1  0.16	Data 0.002 
+saving the latest model (epoch 13, total_steps 640000)
+[13][310/391]	LossX  614.11	LossY  3.61	TOP1  0.16	Data 0.002 
+[13][320/391]	LossX  627.78	LossY  3.78	TOP1  0.16	Data 0.002 
+[13][330/391]	LossX  648.91	LossY  3.76	TOP1  0.16	Data 0.002 
+[13][340/391]	LossX  653.21	LossY  3.79	TOP1  0.16	Data 0.002 
+[13][350/391]	LossX  655.65	LossY  3.78	TOP1  0.16	Data 0.002 
+[13][360/391]	LossX  653.72	LossY  3.77	TOP1  0.16	Data 0.002 
+[13][370/391]	LossX  648.92	LossY  3.77	TOP1  0.16	Data 0.002 
+[13][380/391]	LossX  648.48	LossY  3.76	TOP1  0.16	Data 0.002 
+[13][390/391]	LossX  645.57	LossY  3.76	TOP1  0.16	Data 0.002 
+saving the model at the end of epoch 13, iters 650624
+End of epoch 13 / 200 	 Time Taken: 117 sec
+learning rate = 0.0010000
+learning rate = 0.0010000
+[14][10/391]	LossX  650.90	LossY  3.71	TOP1  0.16	Data 0.002 
+[14][20/391]	LossX  642.46	LossY  3.72	TOP1  0.16	Data 0.002 
+[14][30/391]	LossX  641.63	LossY  3.71	TOP1  0.16	Data 0.002 
+[14][40/391]	LossX  645.47	LossY  3.73	TOP1  0.16	Data 0.002 
+[14][50/391]	LossX  638.63	LossY  3.72	TOP1  0.16	Data 0.002 
+[14][60/391]	LossX  642.74	LossY  3.71	TOP1  0.16	Data 0.002 
+[14][70/391]	LossX  638.72	LossY  3.71	TOP1  0.16	Data 0.002 
+[14][80/391]	LossX  634.15	LossY  3.71	TOP1  0.17	Data 0.002 
+[14][90/391]	LossX  635.01	LossY  3.70	TOP1  0.17	Data 0.002 
+[14][100/391]	LossX  633.63	LossY  3.70	TOP1  0.17	Data 0.002 
+[14][110/391]	LossX  632.51	LossY  3.70	TOP1  0.17	Data 0.002 
+[14][120/391]	LossX  632.16	LossY  3.69	TOP1  0.17	Data 0.002 
+[14][130/391]	LossX  629.89	LossY  3.69	TOP1  0.17	Data 0.002 
+[14][140/391]	LossX  630.14	LossY  3.69	TOP1  0.17	Data 0.002 
+[14][150/391]	LossX  629.81	LossY  3.68	TOP1  0.17	Data 0.002 
+[14][160/391]	LossX  630.39	LossY  3.69	TOP1  0.17	Data 0.002 
+[14][170/391]	LossX  631.25	LossY  3.68	TOP1  0.17	Data 0.002 
+[14][180/391]	LossX  632.16	LossY  3.68	TOP1  0.17	Data 0.002 
+[14][190/391]	LossX  632.00	LossY  3.68	TOP1  0.17	Data 0.002 
+[14][200/391]	LossX  630.70	LossY  3.68	TOP1  0.17	Data 0.002 
+[14][210/391]	LossX  630.41	LossY  3.68	TOP1  0.17	Data 0.002 

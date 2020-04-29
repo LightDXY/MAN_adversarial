@@ -1,0 +1,9 @@
+1
+Traceback (most recent call last):
+  File "cifar_manr.py", line 232, in <module>
+    main()
+  File "cifar_manr.py", line 37, in main
+    netT.load_state_dict(torch.load('checkpoints/resnet14/100_net_T.pth'))
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/serialization.py", line 265, in load
+    f = open(f, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'checkpoints/resnet14/100_net_T.pth'

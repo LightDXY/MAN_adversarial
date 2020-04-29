@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "cifar_manr.py", line 15, in <module>
+    from my_network import load_pretrained_model, load_scratch_model
+  File "/home/jfhan/MAN/my_network.py", line 4, in <module>
+    from models import identity_map_resnet_for_cifar as ident_cifar
+ImportError: cannot import name 'identity_map_resnet_for_cifar'

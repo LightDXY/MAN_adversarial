@@ -1,0 +1,95 @@
+1
+basic setting:
+beta = 1200.0
+lr decay /iters = 160
+number of class to be attacked = 10
+learning rate = 0.0010000
+[1][10/782]	LossX  3905.34	LossY  6.53	TOP1  0.10	Data 0.004 
+[1][20/782]	LossX  3401.83	LossY  5.85	TOP1  0.10	Data 0.003 
+[1][30/782]	LossX  3096.89	LossY  5.30	TOP1  0.10	Data 0.003 
+[1][40/782]	LossX  2875.68	LossY  5.05	TOP1  0.11	Data 0.003 
+[1][50/782]	LossX  2738.34	LossY  4.91	TOP1  0.10	Data 0.003 
+[1][60/782]	LossX  2628.41	LossY  4.80	TOP1  0.10	Data 0.003 
+[1][70/782]	LossX  2527.92	LossY  4.70	TOP1  0.10	Data 0.003 
+[1][80/782]	LossX  2446.55	LossY  4.65	TOP1  0.10	Data 0.003 
+[1][90/782]	LossX  2378.50	LossY  4.60	TOP1  0.10	Data 0.004 
+[1][100/782]	LossX  2319.60	LossY  4.56	TOP1  0.10	Data 0.004 
+[1][110/782]	LossX  2273.18	LossY  4.54	TOP1  0.10	Data 0.004 
+[1][120/782]	LossX  2236.44	LossY  4.50	TOP1  0.10	Data 0.004 
+[1][130/782]	LossX  2195.23	LossY  4.47	TOP1  0.10	Data 0.004 
+[1][140/782]	LossX  2158.07	LossY  4.45	TOP1  0.10	Data 0.004 
+[1][150/782]	LossX  2128.75	LossY  4.43	TOP1  0.10	Data 0.004 
+[1][160/782]	LossX  2100.61	LossY  4.41	TOP1  0.10	Data 0.004 
+[1][170/782]	LossX  2073.10	LossY  4.40	TOP1  0.10	Data 0.004 
+[1][180/782]	LossX  2047.41	LossY  4.39	TOP1  0.10	Data 0.004 
+[1][190/782]	LossX  2016.57	LossY  4.37	TOP1  0.10	Data 0.004 
+[1][200/782]	LossX  2039.02	LossY  4.39	TOP1  0.10	Data 0.004 
+[1][210/782]	LossX  2038.52	LossY  4.40	TOP1  0.10	Data 0.004 
+[1][220/782]	LossX  2030.02	LossY  4.40	TOP1  0.10	Data 0.004 
+[1][230/782]	LossX  2014.45	LossY  4.40	TOP1  0.10	Data 0.004 
+[1][240/782]	LossX  1996.02	LossY  4.39	TOP1  0.10	Data 0.004 
+[1][250/782]	LossX  1977.44	LossY  4.38	TOP1  0.10	Data 0.004 
+[1][260/782]	LossX  1960.63	LossY  4.37	TOP1  0.10	Data 0.004 
+[1][270/782]	LossX  1945.81	LossY  4.37	TOP1  0.10	Data 0.004 
+[1][280/782]	LossX  1931.32	LossY  4.37	TOP1  0.10	Data 0.004 
+[1][290/782]	LossX  1916.91	LossY  4.36	TOP1  0.10	Data 0.004 
+[1][300/782]	LossX  1902.09	LossY  4.35	TOP1  0.10	Data 0.004 
+[1][310/782]	LossX  1887.99	LossY  4.35	TOP1  0.10	Data 0.004 
+[1][320/782]	LossX  1873.10	LossY  4.35	TOP1  0.10	Data 0.004 
+[1][330/782]	LossX  1859.31	LossY  4.34	TOP1  0.10	Data 0.004 
+[1][340/782]	LossX  1846.02	LossY  4.34	TOP1  0.10	Data 0.004 
+[1][350/782]	LossX  1834.11	LossY  4.34	TOP1  0.10	Data 0.004 
+[1][360/782]	LossX  1817.85	LossY  4.33	TOP1  0.10	Data 0.004 
+[1][370/782]	LossX  1805.44	LossY  4.33	TOP1  0.10	Data 0.004 
+[1][380/782]	LossX  1789.78	LossY  4.32	TOP1  0.10	Data 0.004 
+[1][390/782]	LossX  1774.60	LossY  4.31	TOP1  0.10	Data 0.004 
+[1][400/782]	LossX  1759.82	LossY  4.31	TOP1  0.10	Data 0.004 
+[1][410/782]	LossX  1744.71	LossY  4.30	TOP1  0.10	Data 0.004 
+[1][420/782]	LossX  1733.16	LossY  4.29	TOP1  0.10	Data 0.004 
+[1][430/782]	LossX  1719.75	LossY  4.28	TOP1  0.10	Data 0.004 
+[1][440/782]	LossX  1708.28	LossY  4.27	TOP1  0.10	Data 0.004 
+[1][450/782]	LossX  1695.11	LossY  4.27	TOP1  0.10	Data 0.004 
+[1][460/782]	LossX  1683.16	LossY  4.26	TOP1  0.10	Data 0.004 
+[1][470/782]	LossX  1673.46	LossY  4.25	TOP1  0.10	Data 0.004 
+[1][480/782]	LossX  1663.20	LossY  4.25	TOP1  0.10	Data 0.004 
+[1][490/782]	LossX  1668.06	LossY  4.24	TOP1  0.10	Data 0.004 
+[1][500/782]	LossX  1669.85	LossY  4.24	TOP1  0.10	Data 0.004 
+[1][510/782]	LossX  1666.30	LossY  4.24	TOP1  0.10	Data 0.004 
+[1][520/782]	LossX  1662.79	LossY  4.24	TOP1  0.10	Data 0.004 
+[1][530/782]	LossX  1658.60	LossY  4.24	TOP1  0.10	Data 0.004 
+[1][540/782]	LossX  1653.97	LossY  4.24	TOP1  0.10	Data 0.004 
+[1][550/782]	LossX  1648.17	LossY  4.23	TOP1  0.10	Data 0.004 
+[1][560/782]	LossX  1640.39	LossY  4.23	TOP1  0.10	Data 0.004 
+[1][570/782]	LossX  1632.13	LossY  4.23	TOP1  0.10	Data 0.004 
+[1][580/782]	LossX  1624.00	LossY  4.23	TOP1  0.10	Data 0.004 
+[1][590/782]	LossX  1615.41	LossY  4.22	TOP1  0.10	Data 0.004 
+[1][600/782]	LossX  1607.53	LossY  4.22	TOP1  0.10	Data 0.004 
+[1][610/782]	LossX  1598.60	LossY  4.22	TOP1  0.10	Data 0.004 
+[1][620/782]	LossX  1590.90	LossY  4.22	TOP1  0.10	Data 0.004 
+saving the latest model (epoch 1, total_steps 40000)
+Traceback (most recent call last):
+  File "cifar_manr.py", line 232, in <module>
+    main()
+  File "cifar_manr.py", line 72, in main
+    train (opt,netD,netT,optimizer_G,train_loader_single, eps, optimizers, schedulers, mean_arr, stddev_arr)
+  File "cifar_manr.py", line 173, in train
+    save_networks('latest',opt,netD,'D')
+  File "cifar_manr.py", line 221, in save_networks
+    net.cuda(opt.gpu_ids[0])
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 216, in cuda
+    return self._apply(lambda t: t.cuda(device))
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 146, in _apply
+    module._apply(fn)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 146, in _apply
+    module._apply(fn)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 146, in _apply
+    module._apply(fn)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 152, in _apply
+    param.data = fn(param.data)
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/nn/modules/module.py", line 216, in <lambda>
+    return self._apply(lambda t: t.cuda(device))
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/_utils.py", line 61, in _cuda
+    with torch.cuda.device(device):
+  File "/home/jfhan/anaconda2/envs/dlight/lib/python3.6/site-packages/torch/cuda/__init__.py", line 209, in __enter__
+    torch._C._cuda_setDevice(self.idx)
+RuntimeError: invalid argument to setDevice

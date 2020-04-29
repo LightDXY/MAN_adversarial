@@ -1,0 +1,6 @@
+2
+basic setting:
+beta = 1200.0
+lr decay /iters = 160
+number of class to be attacked = 10
+learning rate = 0.0010000

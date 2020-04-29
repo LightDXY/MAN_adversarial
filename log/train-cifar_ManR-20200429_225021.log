@@ -1,0 +1,9 @@
+1
+Traceback (most recent call last):
+  File "cifar_manr.py", line 232, in <module>
+    main()
+  File "cifar_manr.py", line 26, in main
+    netD = generators.Man_Recalibrate(3, 3, 16, norm_type='batch', act_type='relu',addition_res=True)
+  File "/home/jfhan/MAN/models/cifar_generators.py", line 235, in __init__
+    En += [ResnetBlock(int(ngf * mult), padding_type=padding_type, norm_layer=norm_layer, use_dropout=use_dropout,
+NameError: name 'ResnetBlock' is not defined

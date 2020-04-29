@@ -1,0 +1,11 @@
+1
+basic setting:
+beta = 1200.0
+lr decay /iters = 160
+number of class to be attacked = 10
+Traceback (most recent call last):
+  File "cifar_manr.py", line 232, in <module>
+    main()
+  File "cifar_manr.py", line 59, in main
+    schedulers.append(networks.get_scheduler(optimizer, opt))
+NameError: name 'networks' is not defined
